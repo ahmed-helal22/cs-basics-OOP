@@ -1,0 +1,19 @@
+# مجلدات البناء المؤقتة في .NET
+bin/
+obj/
+
+# مجلدات وإعدادات Visual Studio و VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ملفات النظام والـ Logs
+*.log
+Thumbs.db
+.DS_Store
+
+# حزم NuGet المحملة محلياً
+packages/
